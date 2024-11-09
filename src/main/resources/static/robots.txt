@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /index
+Disallow: /rolemanage
+Disallow: /infrommanage
+Disallow: /mail
